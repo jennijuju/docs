@@ -8,7 +8,7 @@
 Now that you've got Maven installed you can get started with your project. Run the following command wherever you want:
 
 ```bash
-mvn archetype:generate -DarchetypeGroupId=org.aion4j -DarchetypeArtifactId=avm-archetype -DarchetypeVersion=0.11
+mvn archetype:generate -DarchetypeGroupId=org.aion4j -DarchetypeArtifactId=avm-archetype -DarchetypeVersion=0.14
 ```
 
 You can find the [latest archetype version on Github](https://github.com/bloxbean/avm-archetype).
