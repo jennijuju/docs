@@ -97,7 +97,7 @@ mvn initialize
 ...
 ```
 
-You can also call the initialize with the following command:
+You can also call the initialize with the following command(for any archetype other than 0.17):
 
 ```bash
 mvn aion4j:init
